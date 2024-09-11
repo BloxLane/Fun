@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "dependencies": {
+    "types-registry": "^0.1.685"
+  },
+  "devDependencies": {
+    "@types/depd": "^1.1.32",
+    "@types/http-errors": "^2.0.1",
+    "@types/inherits": "0.0.30",
+    "@types/lodash": "^4.14.198",
+    "@types/lodash.snakecase": "^4.1.7",
+    "@types/minimist": "^1.2.2",
+    "@types/node": "^20.6.0",
+    "@types/node-static": "^0.7.8",
+    "@types/optimist": "0.0.31",
+    "@types/statuses": "^2.0.0",
+    "@types/toidentifier": "^1.0.0",
+    "@types/wordwrap": "^1.0.1",
+    "@types/ws": "^8.5.5"
+  }
+}
